@@ -1,6 +1,6 @@
 # Code Explanation - Particle Simulation
 
-This code is a particle simulation program implemented in Processing. It creates a visual display of particles moving on a screen based on the mouse position and sensor input from an Arduino board.
+This code is a particle simulation program implemented in Processing. It creates a visual display of particles moving on a screen based on the mouse position and sensor input from an Arduino board. For this particular example, I used an LDR sensor, but you can essentially use any type of sensor input and modify the code accordingly. 
 
 ## Prerequisites
 
