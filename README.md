@@ -2,6 +2,8 @@
 
 This code is a particle simulation program implemented in Processing. It creates a visual display of particles moving on a screen based on the mouse position and sensor input from an Arduino board. For this particular example, I used an LDR sensor, but you can essentially use any type of sensor input and modify the code accordingly. 
 
+<img width="1663" alt="LDR-screensaver" src="https://github.com/QC20/Screensaver-LDR/assets/36644388/6e1eb5ef-b754-4874-84bc-96b785cf80a1">
+
 ## Prerequisites
 
 Before running this code, you need to ensure that you have the following prerequisites:
