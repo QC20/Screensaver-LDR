@@ -19,7 +19,7 @@ Before running this code, you need to ensure that you have the following prerequ
 4. Set the baud rate (`9600` by default) to match the baud rate specified in your Arduino program.
 5. Run the code.
 
-## Functionality
+![LDR-Resistor-Sketch_bb](https://github.com/QC20/Screensaver-LDR/assets/36644388/5b9ffb9d-f6eb-46be-8f47-cfba0d0c68de)
 
 ### Variables
 
